@@ -1,5 +1,5 @@
 ---
-title: NeuCoSVC 2
+title: 初心AI翻唱
 emoji: 📉
 colorFrom: pink
 colorTo: blue
